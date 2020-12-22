@@ -3,4 +3,5 @@ Strings and command-line arguments: Write a program HelloGoodbye.java that takes
 ~/Desktop/hello> java HelloGoodbye Kevin Bob
 
 Hello Kevin and Bob.
+
 Goodbye Bob and Kevin.
