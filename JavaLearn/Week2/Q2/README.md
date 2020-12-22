@@ -2,11 +2,11 @@ Band matrices: Write a program BandMatrix.java that takes two integer command-li
 
 ~/Desktop/loops> java BandMatrix 8 0
 
-*  0  0  0  0  0  0  0  
-0  *  0  0  0  0  0  0  
-0  0  *  0  0  0  0  0  
-0  0  0  *  0  0  0  0  
-0  0  0  0  *  0  0  0  
-0  0  0  0  0  *  0  0  
-0  0  0  0  0  0  *  0  
-0  0  0  0  0  0  0  *
+  *  0  0  0  0  0  0  0  
+  0  *  0  0  0  0  0  0  
+  0  0  *  0  0  0  0  0  
+  0  0  0  *  0  0  0  0  
+  0  0  0  0  *  0  0  0  
+  0  0  0  0  0  *  0  0  
+  0  0  0  0  0  0  *  0  
+  0  0  0  0  0  0  0  *
