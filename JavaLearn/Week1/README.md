@@ -1,0 +1,1 @@
+This Week introduces data-types and the basic anatomy of a program, excercises for this week cannot use loops/conditionals.

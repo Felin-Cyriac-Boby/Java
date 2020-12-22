@@ -1,0 +1,1 @@
+This week introduces conditionals and loops. Questions for this week tests these concepts.
