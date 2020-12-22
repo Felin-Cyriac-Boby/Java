@@ -7,6 +7,7 @@ green = 255 × white × (1−magenta)
 blue = 255 × white × (1−yellow)
 
 ~/Desktop/hello> java CMYKtoRGB 0.0 1.0 0.0 0.0    // magenta
+
 red   = 255
 green = 0
 blue  = 255
