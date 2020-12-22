@@ -4,4 +4,5 @@ The following two conditions are necessary and sufficient:
 - The sum of the squares of two of the integers must equal the square of the third integer.
 
 ~/Desktop/hello> java RightTriangle 3 4 5
+
 true
