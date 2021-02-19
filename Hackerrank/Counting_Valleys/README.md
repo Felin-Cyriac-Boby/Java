@@ -43,6 +43,7 @@ path[i] is an element of {**U**,**D**}
 ## **Sample Input**
 
 8
+
 UDDDUDUU
 
 ## **Sample Output**
