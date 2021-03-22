@@ -31,9 +31,10 @@ public class Solution {
 		Set<List<Integer>>out = new HashSet<>();
 		out.addAll(list_of_lists);
 		List<List<Integer>> output = new ArrayList<>();
-        	for (List<Integer> j : out) {
-        		output.add(j);
-        	}
+        	//for (List<Integer> j : out) {
+        	//	output.add(j);
+        	//}
+		output.addAll(out);
         	//list_of_lists = new ArrayList<>();
         	return output;
 	}
