@@ -28,13 +28,13 @@ public class Solution {
 		for (int i = 0; i <= n; i++) {
 			combination_print(arr,n-1,i);
 		}
-		Set<List<Integer>>out = new HashSet<>();
-		out.addAll(list_of_lists);
-		List<List<Integer>> output = new ArrayList<>();
+		Set<List<Integer>>out = new HashSet<>(list_of_lists);
+		//out.addAll(list_of_lists);
+		List<List<Integer>> output = new ArrayList<>(out);
         	//for (List<Integer> j : out) {
         	//	output.add(j);
         	//}
-		output.addAll(out);
+		//output.addAll(out);
         	//list_of_lists = new ArrayList<>();
         	return output;
 	}
